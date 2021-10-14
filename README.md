@@ -1,4 +1,4 @@
-<h1>**PERSONALIZED MEMORY TRANSFER(PMT)**</h1>
+<h1>PERSONALIZED MEMORY TRANSFER(PMT)</h1>
 
 
 ## Preprocessing Dataset
